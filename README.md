@@ -49,18 +49,8 @@ This research demonstrates the potential for implementing lightweight, efficient
 
 ## Authors
 
-- **Lorenzo Barbiero** - [Department of Physics, University of Padova](mailto:lorenzo.barbiero.1@studenti.unipd.it)
-- **Francesco Zane** - [Department of Physics, University of Padova](mailto:francesco.zane.1@studenti.unipd.it)
-
-## References
-
-1. K. Jun et al., "Azure Kinect 3D Skeleton and Foot Pressure Data for Pathological Gaits," 2021.
-2. D.-W. Lee et al., "Abnormal Gait Recognition Using 3D Joint Information of Multiple Kinect Systems and RNN-LSTM," 2019.
-3. K. Jun et al., "Feature Extraction Using an RNN Autoencoder for Skeleton-Based Abnormal Gait Recognition," 2020.
-4. K. Jun et al., "Pathological Gait Classification Using Kinect v2 and Gated Recurrent Neural Networks," 2020.
-5. K. Jun et al., "Deep Learning-Based Multimodal Abnormal Gait Classification Using a 3D Skeleton and Plantar Foot Pressure," 2021.
-6. C. Szegedy et al., "Going Deeper with Convolutions," 2014.
-7. D. P. Kingma and J. Ba, "Adam: A Method for Stochastic Optimization," 2017.
+- **Lorenzo Barbiero**
+- **Francesco Zane**
 
 ## License
 
